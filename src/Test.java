@@ -69,5 +69,3 @@ class Consumer implements Runnable{
         }
     }
 }
-
-//"K:\\Новая папка\\test4.txt");
